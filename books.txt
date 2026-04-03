@@ -1,0 +1,6 @@
+Python Basics
+Python for Data Analysis
+Advanced Python
+Data Science with Python
+Machine Learning with Python
+A Hitchhickers Guide to the Galaxy
